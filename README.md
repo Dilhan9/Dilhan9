@@ -1,6 +1,6 @@
 
 
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan!]
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dilhan!
 
 
 <a href="#">
@@ -35,7 +35,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilhan9&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
 
 
-✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
