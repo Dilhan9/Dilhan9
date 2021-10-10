@@ -1,17 +1,7 @@
 # Dilhan9
 
-<h1 align="center">Hi 👋, I'm Dilhan</h1>
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan](https://heykrushna.xyz/) 
 <h3 align="center">A passionate JAVA developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimeshk&label=Profile%20views&color=0e75b6&style=flat" alt="dimeshk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimeshk" alt="dimeshk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad!](https://heykrushna.xyz/) 
 
 
 <a href="#">
@@ -43,24 +33,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
 
-<a href="https://www.linkedin.com/in/krushna-prasad/">
+<a href="https://www.linkedin.com/in/suresh-dilhan-999191173/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:advancekp77@gmail.com@gmail.com">
+<a href="dilhan9g@gmail.com@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCZCINysslGbXPQHXTIHea9w">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com/@kp-the-great">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 
 <br /><br /><br />
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/suresh-dilhan-999191173/"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/suresh-dilhan-999191173/"><img src="https://github.com/Dilhan9" alt="Dilhan" /></a> </p>
 
 
 <!--
