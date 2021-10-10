@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/suresh-dilhan-999191173/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="dilhan9g@gmail.com">
+<a href="sureshdilhan2011@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
