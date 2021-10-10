@@ -19,5 +19,4 @@
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
-- ⚡ Fun fact **I love HTML programming**
-- ⚡ Fun fact **I love SQL**
+-
