@@ -1,21 +1,19 @@
-# Dilhan9
 
-## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan]
-<h3 align="center">A passionate JAVA developer</h3>
 
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan!]
 
 <a href="#">
     <p>
-    <img src="https://github.com/Dilhan9" alt="my github stats" width="500"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dilhan9-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="500"/><br/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Prasad-Sahoo&layout=compact&theme=tokyonight" alt="languages" height="196">-->
     </p>
 </a>
 
 <div>
-<p><img align="left" src="https://github.com/Dilhan9" alt="Thekrushna" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilhan9-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Dilhan" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilhan-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Thekrushna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilhan-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Dilhan" /> </p>
 </div>
     
 <!--    
@@ -36,14 +34,14 @@
 <a href="https://www.linkedin.com/in/suresh-dilhan-999191173/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="dilhan9g@gmail.com@gmail.com">
+<a href="Dilhan9g@gmail.com@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br /><br /><br />
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/suresh-dilhan-999191173/"><img src="https://github.com/Dilhan9" alt="Dilhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilhan-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Dilhan" /></a> </p>
 
 
 <!--
@@ -61,8 +59,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
 
 -->
-<!--
-**Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -74,5 +72,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
