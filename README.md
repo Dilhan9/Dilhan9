@@ -1,21 +1,21 @@
 # Dilhan9
 
-## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan](https://heykrushna.xyz/) 
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dilhan]
 <h3 align="center">A passionate JAVA developer</h3>
 
 
 <a href="#">
     <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="500"/><br/>
+    <img src="https://github.com/Dilhan9" alt="my github stats" width="500"/><br/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Prasad-Sahoo&layout=compact&theme=tokyonight" alt="languages" height="196">-->
     </p>
 </a>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Thekrushna" /></p>
+<p><img align="left" src="https://github.com/Dilhan9" alt="Thekrushna" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Thekrushna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilhan-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Thekrushna" /> </p>
 </div>
     
 <!--    
